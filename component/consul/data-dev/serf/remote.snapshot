@@ -1,0 +1,739 @@
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-2.dc1 172.28.0.4:8302
+alive: server-1.dc1 172.28.0.2:8302
+alive: server-3.dc1 172.28.0.3:8302
+clock: 6
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.3:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.4:8302
+clock: 7
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.2:8302
+clock: 8
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.3:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.2:8302
+clock: 9
+clock: 10
+clock: 11
+clock: 12
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-3.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.3:8302
+clock: 14
+clock: 15
+clock: 16
+clock: 17
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+not-alive: server-3.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+not-alive: server-2.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+not-alive: server-1.dc1
+not-alive: server-2.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-1.dc1
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+not-alive: server-2.dc1
+not-alive: server-3.dc1
+alive: server-1.dc1 172.28.0.4:8302
+alive: server-2.dc1 172.28.0.5:8302
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-1.dc1
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+alive: server-1.dc1 172.28.0.4:8302
+not-alive: server-2.dc1
+alive: server-2.dc1 172.28.0.5:8302
+not-alive: server-3.dc1
+alive: server-3.dc1 172.28.0.2:8302
+not-alive: server-2.dc1
+not-alive: server-1.dc1
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302
+alive: server-dev.dc1 192.168.1.9:8302

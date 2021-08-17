@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>.\bin\TianCheng.Controller.Core.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Base\Int\**" />
+    <Compile Remove="PlugIn\Consul\**" />
+    <Compile Remove="PlugIn\Log\**" />
+    <EmbeddedResource Remove="Base\Int\**" />
+    <EmbeddedResource Remove="PlugIn\Consul\**" />
+    <EmbeddedResource Remove="PlugIn\Log\**" />
+    <None Remove="Base\Int\**" />
+    <None Remove="PlugIn\Consul\**" />
+    <None Remove="PlugIn\Log\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Base\DefaultBusinessController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Exceptionless.AspNetCore" Version="4.4.0" />
+    <PackageReference Include="Exceptionless.Extensions.Logging" Version="4.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.HealthChecks" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Services\TianCheng.Service.Core\src\TianCheng.Service.Core.csproj" />
+    <ProjectReference Include="..\..\Services\TianCheng.Services.AuthJwt\src\TianCheng.Services.AuthJwt.csproj" />
+    <ProjectReference Include="..\..\Services\TianCheng.ServicesInform\src\TianCheng.ServicesInform.csproj" />
+  </ItemGroup>
+
+</Project>

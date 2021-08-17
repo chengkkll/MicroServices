@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Version>2.0.6</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>数据库连接操作及基本操作的接口</Description>
+    <Authors>成善斌</Authors>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netstandard2.1\TianCheng.DAL.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="QueryObject\**" />
+    <Compile Remove="QueryReslut\**" />
+    <Compile Remove="Tools\**" />
+    <EmbeddedResource Remove="QueryObject\**" />
+    <EmbeddedResource Remove="QueryReslut\**" />
+    <EmbeddedResource Remove="Tools\**" />
+    <None Remove="QueryObject\**" />
+    <None Remove="QueryReslut\**" />
+    <None Remove="Tools\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="TianCheng.Common" Version="1.2.1" />
+  </ItemGroup>
+
+</Project>

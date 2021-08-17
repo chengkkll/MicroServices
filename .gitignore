@@ -1,0 +1,12 @@
+.git
+.vs
+.vscode
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+
+*.log
+*.user
+*.db
+[Pp]roperties/launchSettings.json
+/component/consul/consul.exe

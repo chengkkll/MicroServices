@@ -1,0 +1,88 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Company>天成科技</Company>
+    <Authors>成善斌</Authors>
+    <Description>实体对象基类，及其常用操作。
+常用操作包括：对象转换、序列化、日志、常用异常处理、依赖注入。</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Product>天成科技基础类库</Product>
+    <PackageIcon></PackageIcon>
+    <AssemblyVersion>1.2.15.0</AssemblyVersion>
+    <FileVersion>1.2.15.0</FileVersion>
+    <Version>1.2.15</Version>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netstandard2.1\TianCheng.Common.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Model\DomainObject\BusinessModel\GuidObject\**" />
+    <Compile Remove="Model\DomainObject\BusinessModel\IntObject\**" />
+    <Compile Remove="Model\DomainObject\BusinessModel\MongoObject\**" />
+    <Compile Remove="Model\DomainObject\BusinessModel\StringObject\**" />
+    <EmbeddedResource Remove="Model\DomainObject\BusinessModel\GuidObject\**" />
+    <EmbeddedResource Remove="Model\DomainObject\BusinessModel\IntObject\**" />
+    <EmbeddedResource Remove="Model\DomainObject\BusinessModel\MongoObject\**" />
+    <EmbeddedResource Remove="Model\DomainObject\BusinessModel\StringObject\**" />
+    <None Remove="Model\DomainObject\BusinessModel\GuidObject\**" />
+    <None Remove="Model\DomainObject\BusinessModel\IntObject\**" />
+    <None Remove="Model\DomainObject\BusinessModel\MongoObject\**" />
+    <None Remove="Model\DomainObject\BusinessModel\StringObject\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Config\ConsulConfiguration\ConsulConfiguration.cs" />
+    <Compile Remove="Model\DomainObject\BusinessModel\IBusinessModel.cs" />
+    <Compile Remove="Model\DomainObject\BusinessModel\IIntUserModel.cs" />
+    <Compile Remove="Model\DomainObject\BusinessModel\IStringUserModel.cs" />
+    <Compile Remove="Model\DomainObject\BusinessModel\ProcessState.cs" />
+    <Compile Remove="StartupRegister\Options\HealthOptionsExt.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Icon\Logo64.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Map\Mapster\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Consul" Version="1.6.1.1" />
+    <PackageReference Include="Exceptionless.AspNetCore" Version="4.4.0" />
+    <PackageReference Include="Exceptionless.Extensions.Logging" Version="4.4.0" />
+    <PackageReference Include="Flurl.Http" Version="3.0.1" />
+    <PackageReference Include="MediatR" Version="8.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.HealthChecks" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.CommandLine" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Ini" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="5.0.0" />
+    <PackageReference Include="MongoDB.Bson" Version="2.10.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Serilog.AspNetCore" Version="3.2.0" />
+    <PackageReference Include="Serilog.Enrichers.Thread" Version="3.1.0" />
+    <PackageReference Include="Serilog.Sinks.Email" Version="2.3.0" />
+    <PackageReference Include="Serilog.Sinks.RollingFile" Version="3.3.0" />
+    <PackageReference Include="SerilogAnalyzer" Version="0.15.0" />
+    <PackageReference Include="Winton.Extensions.Configuration.Consul" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Icon\Logo64.ico">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

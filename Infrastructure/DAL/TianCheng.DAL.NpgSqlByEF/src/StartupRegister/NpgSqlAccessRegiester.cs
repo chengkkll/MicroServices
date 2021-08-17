@@ -1,0 +1,65 @@
+﻿using Microsoft.Extensions.DependencyInjection;
+using System;
+using TianCheng.Common;
+
+namespace TianCheng.DAL.NpgSqlByEF
+{
+    /// <summary>
+    /// TianChengConfigureOptions 的扩展方法
+    /// </summary>
+    static public class NpgSqlAccessRegiester
+    {
+        #region Db Services
+        /// <summary>
+        /// 注册DB Services的Key
+        /// </summary>
+        static private readonly string NpgSqlAccess = "NpgSqlAccess";
+
+        /// <summary>
+        /// 判断是否已注册DB服务
+        /// </summary>
+        /// <returns></returns>
+        static public bool HasNpgSqlAccess(this TianChengConfigureOptions options)
+        {
+            return options.HasRegister(NpgSqlAccess);
+        }
+
+        /// <summary>
+        /// 注册数据库操作服务
+        /// </summary>
+        /// <param name="options"></param>
+        /// <remarks>如果使用AddTianChengService，则无需在这里引用</remarks>
+        static public void AddNpgSqlAccess(this TianChengConfigureOptions options)
+        {
+            if (!options.HasDBServices())
+            {
+                options.AddDbServices();
+            }
+            // 注册数据库操作上下文对象
+            ServiceLoader.Services.AddDbContext<NpgSqlContext>();
+            foreach (Type type in AssemblyHelper.GetTypeByBaseClassName("NpgSqlContext"))
+            {
+                if (!type.IsInterface && !type.IsAbstract)
+                {
+                    ServiceLoader.Services.AddSingleton(type);
+                }
+            }
+
+            // 标记注册完成
+            options.Register(NpgSqlAccess);
+        }
+
+        /// <summary>
+        /// 使用Db服务
+        /// </summary>
+        /// <param name="options"></param>
+        static public void UseDbServices(this TianChengConfigureOptions options)
+        {
+            if (options.HasNpgSqlAccess())
+            {
+
+            }
+        }
+        #endregion
+    }
+}

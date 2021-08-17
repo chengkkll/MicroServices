@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AutoMapper\**" />
+    <Compile Remove="BaseService\InfoBusiness\**" />
+    <Compile Remove="Consul\**" />
+    <Compile Remove="DomainObject\**" />
+    <Compile Remove="PlugIn\**" />
+    <Compile Remove="ServicesInform\**" />
+    <Compile Remove="ViewObject\**" />
+    <EmbeddedResource Remove="AutoMapper\**" />
+    <EmbeddedResource Remove="BaseService\InfoBusiness\**" />
+    <EmbeddedResource Remove="Consul\**" />
+    <EmbeddedResource Remove="DomainObject\**" />
+    <EmbeddedResource Remove="PlugIn\**" />
+    <EmbeddedResource Remove="ServicesInform\**" />
+    <EmbeddedResource Remove="ViewObject\**" />
+    <None Remove="AutoMapper\**" />
+    <None Remove="BaseService\InfoBusiness\**" />
+    <None Remove="Consul\**" />
+    <None Remove="DomainObject\**" />
+    <None Remove="PlugIn\**" />
+    <None Remove="ServicesInform\**" />
+    <None Remove="ViewObject\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="BaseService\IInfoBusinessService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetCore.CAP.Dashboard" Version="3.1.1" />
+    <PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="3.1.1" />
+    <PackageReference Include="Flurl.Http" Version="3.0.1" />
+    <PackageReference Include="MaiKeBing.CAP.LiteDB" Version="1.0.32" />
+    <PackageReference Include="MediatR" Version="8.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DAL\TianCheng.DAL.MongoDB\src\TianCheng.DAL.MongoDB.csproj" />
+    <ProjectReference Include="..\..\..\DAL\TianCheng.DAL.NpgSqlByEF\src\TianCheng.DAL.NpgSqlByEF.csproj" />
+    <ProjectReference Include="..\..\..\DAL\TianCheng.DAL\src\TianCheng.DAL.csproj" />
+    <ProjectReference Include="..\..\..\DAL\TianCheng.Redis\src\TianCheng.Redis.csproj" />
+    <ProjectReference Include="..\..\TianCheng.Services.AuthJwt\src\TianCheng.Services.AuthJwt.csproj" />
+    <ProjectReference Include="..\..\TianCheng.ServicesInform\src\TianCheng.ServicesInform.csproj" />
+  </ItemGroup>
+
+</Project>

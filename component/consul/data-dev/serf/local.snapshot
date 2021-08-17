@@ -1,0 +1,3418 @@
+alive: server-dev 192.168.1.9:8301
+event-clock: 1
+alive: server-dev 192.168.1.9:8301
+event-clock: 2
+alive: server-dev 192.168.1.9:8301
+event-clock: 3
+alive: server-dev 192.168.1.9:8301
+event-clock: 4
+alive: server-dev 192.168.1.9:8301
+event-clock: 5
+alive: server-dev 192.168.1.9:8301
+event-clock: 6
+alive: server-dev 192.168.1.9:8301
+event-clock: 7
+alive: server-dev 192.168.1.9:8301
+event-clock: 8
+alive: server-dev 192.168.1.9:8301
+event-clock: 9
+alive: server-dev 192.168.1.9:8301
+event-clock: 10
+alive: client-9 192.168.1.9:8301
+alive: client-9 192.168.1.9:8301
+leave
+clock: 1
+alive: client-9 192.168.1.9:8301
+leave
+clock: 2
+alive: client-9 192.168.1.9:8301
+alive: client-1 172.28.0.5:8301
+alive: server-1 172.28.0.2:8301
+alive: server-3 172.28.0.3:8301
+alive: server-2 172.28.0.4:8301
+clock: 3
+not-alive: server-2
+not-alive: server-3
+not-alive: client-1
+not-alive: server-1
+alive: client-1 172.28.0.5:8301
+alive: server-3 172.28.0.3:8301
+alive: server-2 172.28.0.4:8301
+alive: server-1 172.28.0.2:8301
+not-alive: server-3
+not-alive: client-1
+not-alive: server-2
+not-alive: server-1
+alive: client-1 172.28.0.5:8301
+alive: server-3 172.28.0.3:8301
+alive: server-1 172.28.0.2:8301
+alive: server-2 172.28.0.4:8301
+not-alive: server-3
+not-alive: server-2
+not-alive: server-1
+not-alive: client-1
+alive: server-3 172.28.0.3:8301
+alive: server-2 172.28.0.4:8301
+alive: server-1 172.28.0.2:8301
+alive: client-1 172.28.0.5:8301
+not-alive: server-1
+not-alive: server-2
+alive: server-2 172.28.0.4:8301
+alive: server-1 172.28.0.2:8301
+not-alive: server-3
+not-alive: server-1
+not-alive: client-1
+not-alive: server-2
+alive: client-1 172.28.0.5:8301
+alive: server-1 172.28.0.2:8301
+alive: server-3 172.28.0.3:8301
+alive: server-2 172.28.0.4:8301
+not-alive: client-1
+not-alive: server-3
+alive: server-3 172.28.0.3:8301
+not-alive: server-2
+alive: server-2 172.28.0.4:8301
+alive: client-1 172.28.0.5:8301
+clock: 4
+not-alive: client-1
+not-alive: server-2
+not-alive: server-3
+not-alive: server-1
+alive: server-1 172.28.0.2:8301
+alive: server-2 172.28.0.4:8301
+clock: 6
+alive: client-1 172.28.0.5:8301
+clock: 7
+event-clock: 2
+not-alive: server-2
+not-alive: server-1
+alive: server-1 172.28.0.2:8301
+alive: server-3 172.28.0.3:8301
+alive: server-2 172.28.0.4:8301
+not-alive: client-1
+alive: client-1 172.28.0.5:8301
+not-alive: server-3
+alive: server-dev 192.168.1.9:8301
+event-clock: 3
+alive: server-dev 192.168.1.9:8301
+event-clock: 4
+alive: server-dev 192.168.1.9:8301
+event-clock: 5
+alive: server-dev 192.168.1.9:8301
+event-clock: 6
+alive: server-dev 192.168.1.9:8301
+event-clock: 7
+alive: server-dev 192.168.1.9:8301
+event-clock: 8
+alive: server-dev 192.168.1.9:8301
+event-clock: 9
+alive: server-dev 192.168.1.9:8301
+event-clock: 10
+alive: server-dev 192.168.1.9:8301
+event-clock: 11
+alive: server-dev 192.168.1.9:8301
+event-clock: 12
+alive: server-dev 192.168.1.9:8301
+event-clock: 13
+alive: server-dev 192.168.1.9:8301
+event-clock: 14
+alive: server-dev 192.168.1.9:8301
+event-clock: 15
+alive: server-dev 192.168.1.9:8301
+event-clock: 16
+alive: server-dev 192.168.1.9:8301
+event-clock: 17
+alive: server-dev 192.168.1.9:8301
+event-clock: 18
+alive: server-dev 192.168.1.9:8301
+event-clock: 19
+alive: server-dev 192.168.1.9:8301
+event-clock: 20
+alive: server-dev 192.168.1.9:8301
+event-clock: 21
+alive: server-dev 192.168.1.9:8301
+event-clock: 22
+alive: server-dev 192.168.1.9:8301
+event-clock: 23
+alive: server-dev 192.168.1.9:8301
+event-clock: 24
+alive: server-dev 192.168.1.9:8301
+event-clock: 25
+alive: server-dev 192.168.1.9:8301
+event-clock: 26
+alive: server-dev 192.168.1.9:8301
+event-clock: 27
+alive: client-192.168.0.153 192.168.0.153:8301
+clock: 108
+not-alive: client-192.168.0.153
+alive: server-dev 192.168.1.9:8301
+event-clock: 28
+alive: server-dev 192.168.1.9:8301
+event-clock: 29
+alive: server-dev 192.168.1.9:8301
+event-clock: 30
+alive: server-dev 192.168.1.9:8301
+event-clock: 31
+alive: server-dev 192.168.1.9:8301
+event-clock: 32
+alive: server-dev 192.168.1.9:8301
+event-clock: 33
+alive: server-3 172.28.0.3:8301
+alive: server-1 172.28.0.2:8301
+alive: client-1 172.28.0.5:8301
+alive: server-2 172.28.0.4:8301
+event-clock: 34
+event-clock: 35
+event-clock: 36
+event-clock: 37
+not-alive: server-2
+alive: server-2 172.28.0.4:8301
+event-clock: 38
+event-clock: 39
+not-alive: server-3
+alive: server-3 172.28.0.3:8301
+event-clock: 40
+event-clock: 41
+event-clock: 42
+not-alive: server-2
+event-clock: 43
+not-alive: server-2
+clock: 109
+not-alive: server-3
+alive: server-3 172.28.0.3:8301
+event-clock: 44
+event-clock: 45
+alive: server-2 172.28.0.4:8301
+clock: 111
+not-alive: client-1
+alive: client-1 172.28.0.5:8301
+event-clock: 46
+event-clock: 47
+event-clock: 48
+event-clock: 49
+event-clock: 50
+event-clock: 51
+event-clock: 52
+event-clock: 53
+event-clock: 54
+event-clock: 55
+event-clock: 56
+event-clock: 57
+event-clock: 58
+event-clock: 59
+event-clock: 60
+event-clock: 61
+event-clock: 62
+not-alive: server-1
+not-alive: server-1
+clock: 112
+event-clock: 63
+alive: server-1 172.28.0.2:8301
+not-alive: server-3
+alive: server-3 172.28.0.3:8301
+clock: 113
+not-alive: server-3
+alive: server-3 172.28.0.3:8301
+not-alive: server-1
+alive: server-1 172.28.0.2:8301
+not-alive: client-1
+alive: client-1 172.28.0.5:8301
+not-alive: server-2
+alive: server-2 172.28.0.4:8301
+not-alive: server-3
+alive: server-3 172.28.0.3:8301
+not-alive: client-1
+alive: client-1 172.28.0.5:8301
+not-alive: client-1
+alive: client-1 172.28.0.5:8301
+not-alive: server-2
+alive: server-2 172.28.0.4:8301
+not-alive: server-3
+alive: server-3 172.28.0.3:8301
+not-alive: server-2
+alive: server-2 172.28.0.4:8301
+not-alive: client-1
+alive: client-1 172.28.0.5:8301
+clock: 114
+not-alive: client-1
+clock: 115
+event-clock: 64
+not-alive: server-2
+not-alive: server-2
+clock: 116
+not-alive: server-1
+not-alive: server-1
+clock: 117
+not-alive: server-3
+event-clock: 65
+not-alive: server-3
+clock: 118
+alive: server-2 172.28.0.4:8301
+alive: server-1 172.28.0.3:8301
+clock: 119
+alive: client-1 172.28.0.2:8301
+alive: server-3 172.28.0.5:8301
+clock: 121
+event-clock: 66
+clock: 122
+not-alive: server-2
+not-alive: server-1
+alive: server-1 172.28.0.3:8301
+alive: server-2 172.28.0.4:8301
+not-alive: server-3
+not-alive: client-1
+alive: server-3 172.28.0.5:8301
+alive: client-1 172.28.0.2:8301
+not-alive: server-3
+not-alive: server-2
+alive: server-3 172.28.0.5:8301
+alive: server-2 172.28.0.4:8301
+not-alive: server-1
+alive: server-1 172.28.0.3:8301
+clock: 123
+not-alive: client-1
+event-clock: 67
+not-alive: server-3
+not-alive: server-2
+not-alive: server-3
+clock: 124
+not-alive: server-2
+clock: 125
+not-alive: server-1
+not-alive: server-1
+clock: 126
+event-clock: 68
+event-clock: 69
+event-clock: 70
+alive: server-dev 192.168.1.9:8301
+event-clock: 71
+alive: server-dev 192.168.1.9:8301
+event-clock: 72
+alive: server-dev 192.168.1.9:8301
+event-clock: 73
+alive: server-dev 192.168.1.9:8301
+event-clock: 74
+alive: server-dev 192.168.1.9:8301
+event-clock: 75
+alive: client-1 172.21.0.2:8301
+clock: 127
+not-alive: client-1
+alive: client-1 172.21.0.2:8301
+not-alive: client-1
+alive: client-1 172.21.0.2:8301
+not-alive: client-1
+alive: client-1 172.21.0.2:8301
+clock: 128
+not-alive: client-1
+alive: client-1 172.25.0.2:8301
+clock: 130
+not-alive: client-1
+alive: client-1 172.25.0.2:8301
+not-alive: client-1
+alive: client-1 172.25.0.2:8301
+clock: 131
+not-alive: client-1
+alive: client-1 172.26.0.2:8301
+clock: 133
+not-alive: client-1
+alive: client-1 172.26.0.2:8301
+not-alive: client-1
+alive: client-1 172.26.0.2:8301
+clock: 134
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+clock: 136
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+not-alive: client-1
+alive: client-1 172.27.0.6:8301
+clock: 137
+not-alive: client-1
+alive: server-dev 192.168.1.9:8301
+event-clock: 76
+alive: client-1 172.27.0.7:8301
+clock: 138
+not-alive: client-1
+alive: client-1 172.27.0.7:8301
+not-alive: client-1
+alive: client-1 172.27.0.7:8301
+not-alive: client-1
+alive: client-1 172.27.0.7:8301
+clock: 139
+not-alive: client-1
+clock: 141
+alive: client-1 172.18.0.5:8301
+clock: 143
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: server-dev 192.168.1.9:8301
+event-clock: 77
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+not-alive: client-1
+alive: client-1 172.18.0.5:8301
+clock: 144
+not-alive: client-1
+clock: 145
+alive: client-1 172.20.0.7:8301
+clock: 146
+not-alive: client-1
+alive: client-1 172.20.0.7:8301
+not-alive: client-1
+alive: client-1 172.20.0.7:8301
+not-alive: client-1
+alive: client-1 172.20.0.7:8301
+not-alive: client-1
+alive: client-1 172.20.0.7:8301
+not-alive: client-1
+alive: client-1 172.20.0.7:8301
+not-alive: client-1
+alive: client-1 172.20.0.7:8301
+not-alive: client-1
+not-alive: client-1
+clock: 147
+alive: client-1 172.19.0.3:8301
+clock: 149
+clock: 150
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+clock: 152
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+not-alive: client-1
+alive: client-1 172.20.0.6:8301
+clock: 153
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+clock: 155
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+not-alive: client-1
+alive: client-1 172.21.0.3:8301
+clock: 156
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+clock: 158
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+not-alive: client-1
+alive: client-1 172.22.0.6:8301
+clock: 159
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+clock: 161
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+not-alive: client-1
+alive: client-1 172.23.0.2:8301
+clock: 162
+not-alive: client-1
+clock: 164
+alive: client-1 172.24.0.4:8301
+clock: 166
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+alive: client-1 172.24.0.4:8301
+not-alive: client-1
+not-alive: client-1
+clock: 167
+alive: client-1 172.25.0.4:8301
+clock: 169
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+not-alive: client-1
+alive: client-1 172.25.0.4:8301
+clock: 170
+not-alive: client-1
+alive: server-dev 192.168.1.9:8301
+event-clock: 78
+alive: server-dev 192.168.1.9:8301
+event-clock: 79
+alive: server-dev 192.168.1.9:8301
+event-clock: 80
+alive: server-dev 192.168.1.9:8301
+event-clock: 81
+alive: server-dev 192.168.1.9:8301
+event-clock: 82
+alive: server-dev 192.168.1.9:8301
+event-clock: 83
+alive: server-dev 192.168.1.9:8301
+event-clock: 84
+alive: server-dev 192.168.1.9:8301
+event-clock: 85
+alive: server-dev 192.168.1.9:8301
+event-clock: 86
+alive: server-dev 192.168.1.9:8301
+event-clock: 87
+alive: server-dev 192.168.1.9:8301
+event-clock: 88
+alive: server-dev 192.168.1.9:8301
+event-clock: 89
+alive: server-dev 192.168.1.9:8301
+event-clock: 90
+alive: server-dev 192.168.1.9:8301
+event-clock: 91
+alive: server-dev 192.168.1.9:8301
+event-clock: 92
+alive: server-dev 192.168.1.9:8301
+event-clock: 93
+alive: server-dev 192.168.1.9:8301
+event-clock: 94
+alive: server-dev 192.168.1.9:8301
+event-clock: 95
+alive: server-dev 192.168.1.9:8301
+event-clock: 96
+alive: server-dev 192.168.1.9:8301
+event-clock: 97
+alive: server-dev 192.168.1.9:8301
+event-clock: 98
+alive: server-dev 192.168.1.9:8301
+alive: server-dev 192.168.1.9:8301
+event-clock: 99
+alive: server-dev 192.168.1.9:8301
+event-clock: 100
+alive: server-dev 192.168.1.9:8301
+event-clock: 101
+alive: server-dev 192.168.1.9:8301
+event-clock: 102
+alive: server-dev 192.168.1.9:8301
+event-clock: 103
+alive: server-dev 192.168.1.9:8301
+event-clock: 104
+alive: server-dev 192.168.1.9:8301
+event-clock: 105
+alive: server-dev 192.168.1.9:8301
+event-clock: 106
+alive: server-dev 192.168.1.9:8301
+event-clock: 107
+alive: server-dev 192.168.1.9:8301
+event-clock: 108
+alive: server-dev 192.168.1.9:8301
+event-clock: 109
+alive: server-dev 192.168.1.9:8301
+event-clock: 110
+alive: server-dev 192.168.1.9:8301
+event-clock: 111
+alive: server-dev 192.168.1.9:8301
+event-clock: 112

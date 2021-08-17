@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DAL\**" />
+    <Compile Remove="Model\**" />
+    <Compile Remove="Plugin\**" />
+    <Compile Remove="Services\**" />
+    <EmbeddedResource Remove="DAL\**" />
+    <EmbeddedResource Remove="Model\**" />
+    <EmbeddedResource Remove="Plugin\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <None Remove="DAL\**" />
+    <None Remove="Model\**" />
+    <None Remove="Plugin\**" />
+    <None Remove="Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Flurl.Http" Version="3.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Infrastructure\DAL\TianCheng.DAL.MongoDB\src\TianCheng.DAL.MongoDB.csproj" />
+    <ProjectReference Include="..\..\..\Infrastructure\Services\TianCheng.Service.Core\src\TianCheng.Service.Core.csproj" />
+    <ProjectReference Include="..\..\..\Infrastructure\Services\TianCheng.Services.AuthJwt\src\TianCheng.Services.AuthJwt.csproj" />
+    <ProjectReference Include="..\TianCheng.Organization.DTO\TianCheng.Organization.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,86 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>.\bin\TianCheng.Organization.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DAL\**" />
+    <Compile Remove="Model\**" />
+    <Compile Remove="Services\**" />
+    <EmbeddedResource Remove="DAL\**" />
+    <EmbeddedResource Remove="Model\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <None Remove="DAL\**" />
+    <None Remove="Model\**" />
+    <None Remove="Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="DAL\Common\DepartmentDAL.cs" />
+    <Compile Include="DAL\Common\EmployeeDAL.cs" />
+    <Compile Include="DAL\Common\FunctionDAL.cs" />
+    <Compile Include="DAL\Common\LoginHistoryDAL.cs" />
+    <Compile Include="DAL\Common\MenuDAL.cs" />
+    <Compile Include="DAL\Common\MenuMainDAL.cs" />
+    <Compile Include="DAL\Common\RoleDAL.cs" />
+    <Compile Include="Model\Common\DepartmentInfo.cs" />
+    <Compile Include="Model\Common\EmployeeInfo.cs" />
+    <Compile Include="Model\Common\FunctionGroupInfo.cs" />
+    <Compile Include="Model\Common\FunctionInfo.cs" />
+    <Compile Include="Model\Common\FunctionModuleConfig.cs" />
+    <Compile Include="Model\Common\FunctionModuleInfo.cs" />
+    <Compile Include="Model\Common\LoginHistoryInfo.cs" />
+    <Compile Include="Model\Common\MenuInfo.cs" />
+    <Compile Include="Model\Common\MenuMainInfo.cs" />
+    <Compile Include="Model\Common\MenuType.cs" />
+    <Compile Include="Model\Common\RoleInfo.cs" />
+    <Compile Include="Model\Enum\LoginVerifierType.cs" />
+    <Compile Include="Model\Profile\DepartmentViewToInfo.cs" />
+    <Compile Include="Model\Profile\EmployeeInfoToEmployeeSelectView.cs" />
+    <Compile Include="Model\Profile\EmployeeInfoToSelectView.cs" />
+    <Compile Include="Model\Profile\MenuMainViewToInfo.cs" />
+    <Compile Include="Model\Profile\RoleViewToInfo.cs" />
+    <Compile Include="Model\Profile\SystemCommonModelProfile.cs" />
+    <Compile Include="Services\Auth\TAuthService.cs" />
+    <Compile Include="Services\Common\CAP\DepartmentServiceCap.cs" />
+    <Compile Include="Services\Common\CAP\EmployeeServiceCap.cs" />
+    <Compile Include="Services\Common\CAP\MenuServiceCap.cs" />
+    <Compile Include="Services\Common\CAP\RoleServiceCap.cs" />
+    <Compile Include="Services\Common\DepartmentService.cs" />
+    <Compile Include="Services\Common\EmployeeService.cs" />
+    <Compile Include="Services\Common\FunctionConfigureService.cs" />
+    <Compile Include="Services\Common\FunctionService.cs" />
+    <Compile Include="Services\Common\LoginHistoryService.cs" />
+    <Compile Include="Services\Common\MenuService.cs" />
+    <Compile Include="Services\Common\MenuServiceOption.cs" />
+    <Compile Include="Services\Common\RoleService.cs" />
+    <Compile Include="Services\Common\RoleServiceExt.cs" />
+    <Compile Include="Services\Common\TokenLogonInfoExtFun.cs" />
+    <Compile Include="Services\Workflow\TestWorkflow.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WorkflowCore" Version="3.3.5" />
+    <PackageReference Include="WorkflowCore.DSL" Version="3.3.1" />
+    <PackageReference Include="WorkflowCore.Persistence.MongoDB" Version="3.0.3" />
+    <PackageReference Include="WorkflowCore.WebAPI" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Infrastructure\DAL\TianCheng.DAL.MongoDB\src\TianCheng.DAL.MongoDB.csproj" />
+    <ProjectReference Include="..\..\..\Infrastructure\Services\TianCheng.Service.Core\src\TianCheng.Service.Core.csproj" />
+    <ProjectReference Include="..\..\..\Infrastructure\Services\TianCheng.Services.AuthJwt\src\TianCheng.Services.AuthJwt.csproj" />
+    <ProjectReference Include="..\..\..\Infrastructure\TianCheng.Controller.Core\src\TianCheng.Controller.Core.csproj" />
+    <ProjectReference Include="..\TianCheng.Organization.DTO\TianCheng.Organization.DTO.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\Workflow\" />
+  </ItemGroup>
+
+</Project>

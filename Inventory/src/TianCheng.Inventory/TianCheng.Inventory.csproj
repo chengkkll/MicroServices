@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>.\bin\TianCheng.Inventory.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Infrastructure\DAL\TianCheng.DAL.MongoDB\src\TianCheng.DAL.MongoDB.csproj" />
+    <ProjectReference Include="..\..\..\Infrastructure\Services\TianCheng.Service.Core\src\TianCheng.Service.Core.csproj" />
+    <ProjectReference Include="..\..\..\Infrastructure\TianCheng.Controller.Core\src\TianCheng.Controller.Core.csproj" />
+    <ProjectReference Include="..\..\..\Organization\src\TianCheng.Organization.DTO\TianCheng.Organization.DTO.csproj" />
+    <ProjectReference Include="..\TianCheng.Inventory.DTO\TianCheng.Inventory.DTO.csproj" />
+  </ItemGroup>
+
+</Project>
